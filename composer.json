@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "ardzz",
+            "email": "ardzz@indoploit.or.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Meownime\\": "App/"
+        }
+    },
+    "description": "Unofficial API of Meownime (Clone)",
+    "minimum-stability": "d",
+    "license": "MITM",
+    "name": "ardzz/meownime",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "guzzle/http": "^3.9",
+        "voku/simple_html_dom": "9999999-dev",
+        "ext-json": "*"
+    },
+    "type": "library"
+}
