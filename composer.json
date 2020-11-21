@@ -12,7 +12,7 @@
     },
     "description": "Unofficial API of Meownime (Clone)",
     "minimum-stability": "d",
-    "license": "MITM",
+    "license": "MIT",
     "name": "ardzz/meownime",
     "require": {
         "guzzlehttp/guzzle": "^7.2",
