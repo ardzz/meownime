@@ -15,6 +15,7 @@ This library written in PHP - let you use meownime.moe more easier
 |Get All Categories Page|✔|
 |Get Anime List|✔|
 |Get Anime Recommendations|✔|
+|Use Async Request|✔|
 
 ## Installation
 The recommended way to install Meownime Library is with Composer. Composer is a dependency management tool for PHP that allows you to declare the dependencies your project needs and installs them into your project.
