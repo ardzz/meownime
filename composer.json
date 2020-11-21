@@ -11,7 +11,7 @@
         }
     },
     "description": "Unofficial API of Meownime (Clone)",
-    "minimum-stability": "d",
+    "minimum-stability": "dev",
     "license": "MIT",
     "name": "ardzz/meownime",
     "require": {
