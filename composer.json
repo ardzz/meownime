@@ -17,7 +17,7 @@
     "require": {
         "guzzlehttp/guzzle": "^7.2",
         "guzzle/http": "^3.9",
-        "voku/simple_html_dom": "9999999-dev",
+        "voku/simple_html_dom": "^4.7",
         "ext-json": "*"
     },
     "type": "library"
