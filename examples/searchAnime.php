@@ -33,4 +33,6 @@ use Meownime\Meownime;
 $meownime = new Meownime;
 $output = $meownime->uncategorized()->searchAnime("kanojo");
 
+// array output
+
 print_r($output);
