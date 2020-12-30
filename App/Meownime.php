@@ -41,21 +41,24 @@ class Meownime {
     /**
      * @return TagFactory
      */
-    function tag(){
+    function tag(): TagFactory
+    {
         return new TagFactory;
     }
 
     /**
      * @return GenreFactory
      */
-    function genre(){
+    function genre(): GenreFactory
+    {
         return new GenreFactory;
     }
 
     /**
      * @return Uncategorized
      */
-    function uncategorized(){
+    function uncategorized(): Uncategorized
+    {
         return new Uncategorized;
     }
 }
